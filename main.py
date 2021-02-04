@@ -1,3 +1,3 @@
-age = 20
-age = 30
-print(age)
+name = input('what is your name ')
+
+print('hello ' + name + '!!!')

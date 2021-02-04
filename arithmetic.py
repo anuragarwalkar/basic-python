@@ -11,3 +11,7 @@ print(10**3) # 1000 10 to the power of 3
 x = 10
 x += 3
 print(x)
+
+x = 10 + 3 * 2
+
+print(x)

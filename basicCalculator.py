@@ -1,0 +1,5 @@
+print('Calculator...')
+numberOne = input('First Number: ')
+numberTwo = input('Second Number: ')
+sum = int(numberTwo) + int(numberOne)
+print('Total', sum)

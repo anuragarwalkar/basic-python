@@ -15,6 +15,13 @@ numbers.append(6)
 numbers.insert(0, -1)
 numbers.remove(3)
 is_there = 1 in numbers
+numbers.count(3) # it will return count of 3
+# numbers.sort() # Ascending order
+
+numbers.reverse() # descending order
+
+numbers = numbers.copy() # To clone original list
+
 print(is_there)
 print(numbers)
 print(len(numbers))
